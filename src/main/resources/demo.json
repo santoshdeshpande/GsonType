@@ -1,0 +1,22 @@
+{
+    "name" : "Demo Point Widgets",
+    "items" : [
+        {
+            "id": "1",
+            "type":"3dmodel",
+            "display" : {
+                "name":"Amazing SpiderMan",
+                "isTracked":true,
+                "modelName":"jumping"
+            }
+        },
+        {
+            "id": "2",
+            "type":"video",
+            "display" : {
+                "name":"Amazing SpiderMan",
+                "videoFileName" : "amazing.mp4"
+            }
+        }
+    ]
+}
